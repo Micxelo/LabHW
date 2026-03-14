@@ -1,0 +1,12 @@
+# Treat binary files as binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.bmp binary
+*.tiff binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
