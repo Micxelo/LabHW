@@ -15,3 +15,11 @@
     ├── main.c
     └── utils.c
 ```
+
+## Git 命令执行记录
+
+![Screenshot: Git output](./images/screenshot_mar13_git_output.png "Git 输出")
+
+## GitHub 仓库截图
+
+![Screenshot: GitHub repo](./images/screenshot_mar13_repo.png "GitHub 仓库")
