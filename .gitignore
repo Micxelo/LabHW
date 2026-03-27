@@ -22,3 +22,6 @@ Makefile
 *.swp
 .DS_Store
 Thumbs.db
+
+# Ignore homework submission files
+*.zip
