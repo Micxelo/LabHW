@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
-project(score_filter CXX)
+project(lru_cache CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-add_executable(score_filter
+add_executable(lru_cache
 	main.cpp
-	matrix.cpp
+	lru.cpp
 )
